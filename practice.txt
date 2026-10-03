@@ -1,3 +1,5 @@
 This is my git practice repository
 
 I am practicing the basic workflow
+
+Git helps track changes in project files
